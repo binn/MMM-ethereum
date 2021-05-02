@@ -1,6 +1,6 @@
 'use strict';
 
-Module.register("MMM-ethereum-custom", {
+Module.register("MMM-ethereum", {
 
   result: {},
   defaults: {
